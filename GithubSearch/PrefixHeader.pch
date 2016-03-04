@@ -1,0 +1,19 @@
+//
+//  PrefixHeader.pch
+//  Github Search
+//
+//  Created by Kshitij-Deo on 23/01/16.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <Parse/Parse.h>
+#import <MBProgressHUD/MBProgressHUD.h>
+
+#define SETTINGS @"settings"
+#define SETTINGS_FOLLOWERS @"settings"
+#define SETTINGS_LANGUAGE @"language"
+#define SETTINGS_LOCATION @"location"
+
+#endif
