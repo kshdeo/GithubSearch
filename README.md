@@ -1,4 +1,5 @@
 ## GithubSearch
+An iOS app to search and bookmark Github users in a few clicks.
 
 ### Prerequisites:
 * MacOS X running Xcode 7
